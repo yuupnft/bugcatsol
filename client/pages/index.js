@@ -74,7 +74,7 @@ export default function Home() {
         <section className={`${styles.infos} ${rubik.className}`}>
           <h1>Contract Address</h1>
           <p className={styles.ca}>
-            2gNywbGr5hURypWAEk6UUXESx5cFmNrvajfbz81CEQzg
+            68hq3Lgqg4a7qHoGpgf7Pz18swuMpPc5gXYmPt3UEZ7L
           </p>
           <div className={styles.infos_shape_2}>
             <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 168.5 152.6" className="" fill="rgba(231, 249, 253, 1)"><path d="M25.1,17.1s69.1-39.5,95.6,1.4S180,30,164.5,90c-12.4,47.8-26.1,20.6-62,57.9-17.8,18.5-77.2-22-89.8-48.3C-8.8,54.6-2,32.2,25.1,17.1Z"></path></svg>
