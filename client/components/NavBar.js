@@ -25,6 +25,11 @@ export default function NavBar(props) {
               <img src="/telegram.svg" alt="Bug Cat Community - Telegram"/>
             </a>
           </div>
+          <div className={`${styles.nav_item} ${styles.icon}`}>
+            <a href="https://www.dextools.io/app/en/solana/pair-explorer/61AGYD2fdxaMdQ3Ams1Uf7otmHi319kPfBM2NNy4qYrq?t=1711823259162">
+              <img src="/dextools.svg" alt="Bug Cat Community - DexTools"/>
+            </a>
+          </div>
         </div>
       </div>
     </nav>
